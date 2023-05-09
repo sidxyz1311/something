@@ -44,11 +44,13 @@ function PuzzlePage() {
   <tbody>
     <tr style={{ border: "2px solid black" }}>
       <td style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>Prince</td>
-      <td style={{ border: "2px solid black", padding: "10px" }}>-</td>
+      <td style={{ border: "2px solid black", padding: "10px" }}>Happy birthday ballu!!! Bharve Tuhanu oh sab kuch milee jo
+ajj tak kadi kise nu miliya nahin.</td>
     </tr>
     <tr style={{ border: "2px solid black" }}>
       <td style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>Vraj</td>
-      <td style={{ border: "2px solid black", padding: "10px" }}>-</td>
+      <td style={{ border: "2px solid black", padding: "10px" }}>Wishing you a very happy birthday filled with love, laughter, and all the good things life has to offer!
+And manni mai toh humesha gaand marte rahuga😂</td>
     </tr>
     <tr style={{ border: "2px solid black" }}>
       <td style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>Ut</td>
@@ -88,7 +90,10 @@ Happy budddaayyy bhadwe💦</td>
     <tr style={{ border: "2px solid black" }}>
       <td style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>Me</td>
       <td style={{ border: "2px solid black", padding: "10px" }}>
-       
+       Bhai manni sun , TMKC, TMKB, bhai tu jo chahe woh tujhe nhi mile. Tu management mein acha hai kaafi toh tu iim jaye or tereko hotel hilton mein job mile , chahe woh masseur ki hi ho. 
+       Tu bhott bada aadmi bane , pehle toh tu aadmi ban bkl or usse pehle sardar. BC hybrid saala. Bhai ye sb hatakr , mein tere liye sb acha hi chahta hu jb tk competition nhi rkhta tu wrna 
+       toh tu touch bhi nhi hota. Baaki ladki wala scene toh bhai mein bhi jaanta hu ki tujhse badiya kya hi insaan hoga , ladkiyan deserve nhi krti tujhe . But bkl deserve krne layak bhi nhi hai 
+       chut mein ghus jata hai har ladki ka dukh janana hai bhadwe ko.  Chal bs itni tareef kaafi hai , gaali aaj kya hi du bc paida jo hogya. 
       </td>
     </tr>
   </tbody>
